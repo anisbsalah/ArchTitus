@@ -1,0 +1,8 @@
+xfce4
+xfce4-goodies
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+--END OF MINIMAL INSTALL--
+blueman
+

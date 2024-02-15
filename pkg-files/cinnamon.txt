@@ -1,4 +1,15 @@
 cinnamon
-metacity 
-gnome-shell 
+gnome-shell
+gnome-terminal
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+metacity
+nemo-fileroller
+xed
 --END OF MINIMAL INSTALL--
+blueman
+cinnamon-translations
+gnome-screenshot
+nemo-share
+
